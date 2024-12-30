@@ -7,6 +7,7 @@ import Ashwin from './Ashwin.jsx'
 // import Home from './Home.jsx'
 // import Aboutus from './Aboutus.jsx'
 // import Contact from './Contact.jsx'
+import Task1 from './Task1.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -16,6 +17,7 @@ createRoot(document.getElementById('root')).render(
     {/* <Home />
     <Aboutus />
     <Contact /> */}
+    <Task1 />
 
   </StrictMode>,
 )
